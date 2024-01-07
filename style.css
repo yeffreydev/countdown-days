@@ -19,13 +19,14 @@
 }
 
 .title {
+  text-align: center;
   color: #94efff;
-  font-size: 40px;
+  font-size: 35px;
 }
 
 .content {
   color: #fff;
-  font-size: 60px;
+  font-size: 30px;
   padding: 20px;
   display: flex;
   flex-direction: column;
